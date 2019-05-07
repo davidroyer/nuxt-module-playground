@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-module-playground",
+  "name": "@droyer/nuxt-module-playground",
   "version": "0.0.0",
   "description": "Testing and working on nuxt module concepts",
   "license": "MIT",
